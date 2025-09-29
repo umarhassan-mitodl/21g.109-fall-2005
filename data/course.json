@@ -23,6 +23,7 @@
     "website": "21g-109-chinese-iii-streamlined-fall-2005"
   },
   "course_title": "Chinese III (Streamlined)",
+  "hide_download": true,
   "course_description": "This course is the intermediate level of the streamlined curriculum, which is intended for students who, when they began streamlined I, had some background in the language, whether it be comprehension with limited speaking ability or quite fluent speaking ability. The focus of the course is on standard pronunciation and usage, on reading in both complex and simplified characters, and on writing. It is presupposed that students in Chinese III have already learned the pinyin system of representing pronunciation sufficiently well to be able to read texts in pinyin accurately. (If not, there are pinyin tutorials to assist you to learn the system.)\n",
   "department_numbers": [
     "21G"
@@ -33,6 +34,7 @@
     "content": "3904554a-cb7f-8f08-2d68-cf8f8a2e0285",
     "website": "21g-109-chinese-iii-streamlined-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Activity Assignments"
   ],
